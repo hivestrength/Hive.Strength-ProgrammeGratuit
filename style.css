@@ -39,14 +39,14 @@ main {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  padding: 140px 5% 60px;
+  padding: 40px 5% 60px;
 }
 
 .content {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  max-width: 900px;
+  max-width: 500px;
   width: 100%;
   gap: 40px;
   flex-wrap: wrap;
