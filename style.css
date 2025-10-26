@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Impact', sans-serif;
   background-color: #000;
   color: #fff;
 }
@@ -22,7 +22,7 @@ header {
 .header-center {
   display: flex;
   align-items: center;
-  gap: 80px;
+  gap: 100px;
 }
 
 .logo {
